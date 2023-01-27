@@ -23,5 +23,3 @@ function SearchHeader({ search }) {
 }
 
 export default SearchHeader;
-//Formda enter a bastığımda handleform submit e gidicek search de props olarak "Kutlu" yu geçtik
-//App js de <SearchHeader search={handleSubmit}/> search handle submit in içinde verdiğim parametre tetikleniyor handle submit de parametreyi term ü consola basıyor
